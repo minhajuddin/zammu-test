@@ -10,7 +10,7 @@ title: Zammu Test Site
 email: khajaminhajuddin@mailinator.com
 description: > # this means to ignore newlines until "baseurl:"
   Test our awesome engine
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zammu-test" # the subpath of your site, e.g. /blog
 url: "http://zammu.in" # the base hostname & protocol for your site
 twitter_username: zammu
 github_username:  zammu
