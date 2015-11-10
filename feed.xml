@@ -4,10 +4,10 @@
     <title>Zammu Test Site</title>
     <description>Test our awesome engine
 </description>
-    <link>http://zammu.in/</link>
-    <atom:link href="http://zammu.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Nov 2015 17:48:18 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2015 17:48:18 +0000</lastBuildDate>
+    <link>http://zammu.in/zammu-test/</link>
+    <atom:link href="http://zammu.in/zammu-test/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Nov 2015 17:50:46 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2015 17:50:46 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 10 Nov 2015 14:54:59 +0000</pubDate>
-        <link>http://zammu.in/jekyll/update/2015/11/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://zammu.in/jekyll/update/2015/11/10/welcome-to-jekyll.html</guid>
+        <link>http://zammu.in/zammu-test/jekyll/update/2015/11/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://zammu.in/zammu-test/jekyll/update/2015/11/10/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
